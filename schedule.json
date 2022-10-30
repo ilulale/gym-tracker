@@ -1,0 +1,164 @@
+[
+  {
+    "day": 1,
+    "type": "push",
+    "plan": [
+      {
+        "type": "warm",
+        "exercise": "Push Up",
+        "repType": "reps",
+        "reps": 2
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Front and side raises"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Shoulder press"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Single hand Dumbell per hand"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Skull crusher"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Tricep psuhdown cable"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Machine flies"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Incline / Decline Dumbbell Press"
+      },
+      {
+        "type": "exercise",
+        "repType": "reps",
+        "reps": 3,
+        "exercise": "Dumbell Press"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "type": "pull",
+    "plan": [
+      {
+        "exercise": "Face pull / Reverse Fly",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Preacher curl",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Hammer curl",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Bicep curl",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "T bar / Deadlif",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Barbell rowing",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Lat pull down",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Assisted pull up",
+        "type": "warm",
+        "reps": 3,
+        "repType": "reps"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "type": "leg",
+    "plan": [
+      {
+        "exercise": "Calf Raises",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Leg Press / Sumo squat",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Leg Extensions",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Leg curl",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Walking lunges",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Weighted squats",
+        "type": "exercise",
+        "reps": 3,
+        "repType": "reps"
+      },
+      {
+        "exercise": "Body weight squats",
+        "type": "warm",
+        "reps": 3,
+        "repType": "reps"
+      }
+    ]
+  }
+]
